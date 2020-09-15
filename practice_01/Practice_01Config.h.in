@@ -1,0 +1,3 @@
+// Configure options and setting for Practice_01
+#define Practice_01_VERSION_MAJOR @Practice_01_VERSION_MAJOR@
+#define Practice_01_VERSION_MINOR @Practice_01_VERSION_MINOR@
