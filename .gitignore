@@ -363,4 +363,5 @@ FodyWeavers.xsd
 
 *.cmake
 CMakeFiles/
+build/
 *.filters
